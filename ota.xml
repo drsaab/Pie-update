@@ -21,7 +21,7 @@
                            <devicename>Motorola Moto G5 Plus (potter)</devicename>
                            <filename>Viper-potter-20190306-v5.2-OFFICIAL</filename>
                            <buildtype>Stable</buildtype>                           
-                           <changelog>https://raw.githubusercontent.com/drsaab/Oreo-update/blob/master/potter_changelog.txt</changelog>
+                           <changelog>https://raw.githubusercontent.com/drsaab/Oreo-update/master/potter_changelog.txt</changelog>
                   </potter>
          </manufacturer>
 </OTA>
